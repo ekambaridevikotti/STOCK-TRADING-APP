@@ -1,4 +1,4 @@
-# SB Stocks — Paper Trading Simulator
+# SB Stocks
 
 SB Stocks is a full-stack MERN (MongoDB, Express, React, Node) application that lets users
 practice stock trading with virtual funds — no financial risk. It includes user
